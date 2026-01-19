@@ -12,7 +12,7 @@ subscription_id = "d082ec46-cae2-4914-b058-e49b9130f41f"
 
 appi_name = "keuprod-appi1"
 
-kv_name = "keuprodkv123"
+kv_name = "keuprodkv225"
 
 asp_name = "keuprodaspplan225"
 
