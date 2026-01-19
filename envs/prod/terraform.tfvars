@@ -14,7 +14,7 @@ appi_name = "keuprod-appi1"
 
 kv_name = "keuprodkv123"
 
-asp_name = "keuprodaspplan"
+asp_name = "keuprodaspplan225"
 
 web_name = "keuprodwebapp1234"
 
