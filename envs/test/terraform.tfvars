@@ -20,8 +20,7 @@ web_name = "testwebapp225"
 
 app_service_sku = "S3"
 
-
-
-
-
-
+# Test secrets for GitLeaks detection
+azure_storage_key = "DefaultEndpointsProtocol=https;AccountName=mystorageacct;AccountKey=abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijk==;EndpointSuffix=core.windows.net"
+api_key = "sk-1234567890abcdefghijklmnopqrstuvwxyzABCDEF"
+openai_key = "sk-proj-abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNO"

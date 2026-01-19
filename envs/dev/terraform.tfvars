@@ -20,7 +20,9 @@ web_name = "demowebapp1234"
 
 app_service_sku = "S3"
 
-
-
-
-
+# Test secrets for GitLeaks detection
+azure_client_secret = "F_N8Q~CEQaV36CevsoVx_kr6GJixLGzHsX6EHbOb"
+aws_access_key = "AKIAIOSFODNN7EXAMPLE"
+aws_secret_key = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+github_token = "ghp_1234567890abcdefghijklmnopqrstuvwxyz12"
+connection_string = "Server=myserver.database.windows.net;Database=mydb;User Id=admin;Password=P@ssw0rd123!"
