@@ -14,9 +14,9 @@ appi_name = "keuprod-appi1"
 
 kv_name = "keuprodkv225"
 
-asp_name = "keuprodaspplan225"
+asp_name = "keucognityprodaspplan225"
 
-web_name = "keuprodwebapp1234"
+web_name = "keucognityprodwebapp1234"
 
 app_service_sku = "S3"
 
