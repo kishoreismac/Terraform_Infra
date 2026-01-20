@@ -6,17 +6,17 @@ tags = {
   owner       = "platform-team"
 }
 
-log_name = "prodlog2"
+log_name = "keuprodlog27"
 
 subscription_id = "d082ec46-cae2-4914-b058-e49b9130f41f"
 
-appi_name = "prod-appi1"
+appi_name = "keuprod-appi27"
 
-kv_name = "kprodkv123"
+kv_name = "keuprodkv227"
 
-asp_name = "prodaspplan"
+asp_name = "keucognityprodaspplan227"
 
-web_name = "prodwebapp1234"
+web_name = "keucognityprodwebapp227"
 
 app_service_sku = "S3"
 
